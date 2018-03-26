@@ -20,17 +20,17 @@
       <body>
          <div type="poem">
            <title>XXVI.</title>
-           <lg>
-             <l>Two swimmers wrestled on the spar</l>
-             <l>Until the morning sun,</l>
-             <l>When one turned smiling to the land.</l>
-             <l>O God, the other one !</l>
+           <lg type="quatrain" rhyme="abcb">
+             <l>Two swimmers wrestled on the <rhyme label="a">spar</rhyme></l>
+             <l>Until the morning <rhyme label="b">sun</rhyme>,</l>
+             <l>When one turned smiling to the <rhyme label="c">land</rhyme>.</l>
+             <l>O God, the other <rhyme label="b">one</rhyme> !</l>
              </lg>
-             <lg>
-               <l>The stray ships passing spied a face</l>
-               <l>Upon the waters borne,</l>
-               <l>With eyes in deth still begging raised,</l>
-               <l>And hands beseeching thrown.</l>
+             <lg type="quatrain" rhyme="abcb">
+               <l>The stray ships passing spied a <rhyme label="a">face</rhyme></l>
+               <l>Upon the waters <rhyme label="b">borne</rhyme>,</l>
+               <l>With eyes in deth still begging <rhyme label="c">raised</rhyme>,</l>
+               <l>And hands beseeching <rhyme label="b">thrown</rhyme>.</l>
              </lg>
          </div>
       </body>
