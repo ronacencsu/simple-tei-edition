@@ -6,19 +6,33 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>Poems by Emily Dickinson</title>
          </titleStmt>
          <publicationStmt>
-            <p>Publication information</p>
+            <p>Boston, Roberts brothers, 1890</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <p>Houghton Library, Harvard University, Cambridge, Mass</p>
          </sourceDesc>
       </fileDesc>
   </teiHeader>
   <text>
       <body>
-         <p>Some text here.</p>
+         <div type="poem">
+           <title>XXVI.</title>
+           <lg>
+             <l>Two swimmers wrestled on the spar</l>
+             <l>Until the morning sun,</l>
+             <l>When one turned smiling to the land.</l>
+             <l>O God, the other one !</l>
+             </lg>
+             <lg>
+               <l>The stray ships passing spied a face</l>
+               <l>Upon the waters borne,</l>
+               <l>With eyes in deth still begging raised,</l>
+               <l>And hands beseeching thrown.</l>
+             </lg>
+         </div>
       </body>
   </text>
 </TEI>
